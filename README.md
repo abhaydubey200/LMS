@@ -118,8 +118,3 @@ Contributions are welcome! To contribute:
 ## Contact
 
 For any questions or feedback, feel free to reach out to me at:- dubeyabhay430@gmail.com 
-```
-
-### Adjustments to Make:
-- https://github.com/abhaydubey200/LMS
-- dubeyabhay430@gmail.com 
